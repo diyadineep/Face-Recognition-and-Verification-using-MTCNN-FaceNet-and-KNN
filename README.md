@@ -1,4 +1,4 @@
-# 👤 Face Recognition and Verification
+#  Face Recognition and Verification
 
 **Face Recognition using MTCNN, FaceNet and KNN**
 
@@ -14,7 +14,7 @@ It processes facial images, generates numerical embeddings and identifies indivi
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Identifying and verifying individuals from large image datasets can be challenging without an automated recognition system.
 
@@ -22,20 +22,20 @@ This project addresses the problem by combining deep learning-based facial featu
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 📋 Automated metadata generation with timestamps.
-- 🗂️ Structured dataset organization using constituency and voter ID.
-- 👤 Face detection and cropping using MTCNN.
-- 🧠 Facial feature extraction using FaceNet.
-- 🔢 128-dimensional facial embedding generation.
-- 🤖 Identity recognition using KNN classification.
-- 🔍 Identity verification using cosine similarity.
-- 🖥️ Interactive interface using Streamlit.
+-  Automated metadata generation with timestamps.
+-  Structured dataset organization using constituency and voter ID.
+-  Face detection and cropping using MTCNN.
+-  Facial feature extraction using FaceNet.
+-  128-dimensional facial embedding generation.
+-  Identity recognition using KNN classification.
+-  Identity verification using cosine similarity.
+-  Interactive interface using Streamlit.
 
 ---
 
-## 🏗️ Technology Stack
+##  Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -50,7 +50,7 @@ This project addresses the problem by combining deep learning-based facial featu
 
 ---
 
-## 🧩 System Architecture
+##  System Architecture
 
 ```text
        Input Images
@@ -94,7 +94,7 @@ This project addresses the problem by combining deep learning-based facial featu
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Face-Recognition-and-Verification/
@@ -109,7 +109,7 @@ Face-Recognition-and-Verification/
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
