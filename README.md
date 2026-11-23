@@ -6,7 +6,7 @@ Built with Python and Deep Learning
 
 ---
 
-## 🌌 Overview
+##  Overview
 
 This project implements an end-to-end face recognition and verification system using **MTCNN for face detection, FaceNet for feature extraction and KNN for identity recognition**.
 
